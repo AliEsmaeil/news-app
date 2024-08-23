@@ -1,16 +1,59 @@
-# news_app
+## News App
 
-A new Flutter project.
+Flutter application that collects and present the recent news around the world.
 
-## Getting Started
+### Table of Contents
 
-This project is a starting point for a Flutter application.
+- Features and usage
+- Technologies used
+- How it looks
+- How to install
+- coming updates
+_____________________________________________________________
 
-A few resources to get you started if this is your first Flutter project:
+**Features and usage**
+ 
+Start by presenting the most recent trending news around the worlds, as well as giving the user the ability to navigate across different categories of news like *business*, *science*, *sports*, *entertainment*.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Moreover, user could search for the latest news about some entity by just a word.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**- Technologies used**
+
+- Dart
+- Flutter
+- Cubit
+- Restful API
+- Local Data Persistence (Shared preferences)
+- Theming 
+- Live Search
+
+**How it looks**
+
+All in one screen
+![all-in-one.png](screenshots%2Fall-in-one.png)
+
+you could see screenshots singularly, just go to [screenshots](screenshots) dir.
+
+**How to install**
+
+You can simply follow this steps:
+
+1. ```
+   git clone https://github.com/AliEsmaeil/dot.git
+   ```
+2. open the app in an IDE, and it's supposed that you have flutter installed on your machine.
+
+3. ```
+   flutter pub get
+   ```
+You are free to run, go ahead.
+
+**coming updates**
+
+So, it's an open section for creativity. but consider the following:
+
+- add more news categories such as *health* and *technology*
+- give the user ability to narrowing the search for a specific country news (search filtering).
+-......... I'd be happy to hear your suggestions:).
+
+**BTW, this repo is welcoming any contribution, feel free to open a pull request.**
