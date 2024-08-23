@@ -17,7 +17,7 @@ Start by presenting the most recent trending news around the worlds, as well as 
 
 Moreover, user could search for the latest news about some entity by just a word.
 
-**- Technologies used**
+**Technologies used**
 
 - Dart
 - Flutter
@@ -54,6 +54,6 @@ So, it's an open section for creativity. but consider the following:
 
 - add more news categories such as *health* and *technology*
 - give the user ability to narrowing the search for a specific country news (search filtering).
--......... I'd be happy to hear your suggestions:).
+- ......... I'd be happy to hear your suggestions:).
 
 **BTW, this repo is welcoming any contribution, feel free to open a pull request.**
